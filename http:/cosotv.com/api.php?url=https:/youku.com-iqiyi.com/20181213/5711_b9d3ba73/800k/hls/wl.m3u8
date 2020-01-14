@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:30
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:30.000000,
+https://qqchat.vxichina.cn/file/chatUpdateFiles/fce65ef7b11147098aad372d92eaa0fb20200114162525.png
+#EXTINF:30.000000,
+https://qqchat.vxichina.cn/file/chatUpdateFiles/8b490c72e3714358914c49d2fb560df220200114162533.png
+#EXTINF:30.000000,
+https://qqchat.vxichina.cn/file/chatUpdateFiles/89afbcbc715741a58b064ff3bcb3d88f20200114162540.png
+#EXTINF:30.000000,
+https://qqchat.vxichina.cn/file/chatUpdateFiles/fbae28d4177347828465e701758b4f1b20200114162546.png
+#EXTINF:6.320000,
+https://qqchat.vxichina.cn/file/chatUpdateFiles/b5c4907923a64237b13a8e40f359226220200114162548.png
+#EXT-X-ENDLIST
